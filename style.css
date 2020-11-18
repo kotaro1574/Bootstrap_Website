@@ -53,7 +53,7 @@ figure {
 
 /* Bootstrap Padding fix */
 [class*="col-"] {
-  paddung: 1rem;
+  padding: 1rem;
 }
 
 .background {
@@ -70,4 +70,8 @@ figure {
 
 .gif {
   height: 200px;
+}
+
+.mochio {
+  height: 300px;
 }
