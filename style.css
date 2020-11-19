@@ -56,6 +56,11 @@ figure {
   padding: 1rem;
 }
 
+.logo {
+  width: 130px;
+  height: 35px;
+}
+
 .background {
   height: 500px;
   width: 1600px;
